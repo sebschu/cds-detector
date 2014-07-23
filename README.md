@@ -15,7 +15,7 @@ pip install -r requirements.txt
 You also need to install [sox](http://sox.sourceforge.net/) and 
 [openSMILE](http://opensmile.sourceforge.net/) to run the pipeline.
 
-# Running the system
+## Running the system
 
 To detect child directed speech in an audio file, run the following commands:
 ```bash
@@ -26,3 +26,5 @@ python pipeline.py PATH_TO_AUDIO_FILE.wav
 Note that the audio files has to be a mono 16-bit wave file with 16khz sample 
 rate. You can use tools like [sox](http://sox.sourceforge.net/) to convert the
 audio, if necessary. 
+
+The pipeline writes the annotations to the file AUDION_NAME_cds.txt.
