@@ -3,13 +3,17 @@
 
 ## Installation
 
-You have to install Python 2.7 and pip to run the detector
+You have to install Python 2.7 and pip to run the detector. 
 
+Then run the following command to install the required python packages.
 
 ```bash
 # Install requirements
 pip install -r requirements.txt
 ```
+
+You also need to install [sox](http://sox.sourceforge.net/) and 
+[openSMILE](http://opensmile.sourceforge.net/) to run the pipeline.
 
 # Running the system
 
