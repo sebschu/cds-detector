@@ -28,3 +28,17 @@ rate. You can use tools like [sox](http://sox.sourceforge.net/) to convert the
 audio, if necessary. 
 
 The pipeline writes the annotations to the file AUDION_NAME_cds.txt.
+
+## Citations
+
+If you use the detector for research purposes, then we ask that you cite the following paper:
+
+```latex
+@inproceedings{cds2014,
+ author = {Sebastian Schuster and Stephanie Pancoast and Milind Ganjoo and Michael C. Frank and Dan Jurafsky},
+ title = {Speaker-Independent Detection of Child-Directed Speech},
+ booktitle = {Proceedings of the IEEE Workshop on Spoken Language Technology},
+ year = {2014}
+}
+```
+
