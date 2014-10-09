@@ -29,13 +29,13 @@ audio, if necessary.
 
 The pipeline writes the annotations to the file AUDION_NAME_cds.txt.
 
-## Citations
+## Citing
 
-If you use the detector for research purposes, then we ask that you cite the following paper:
+If you use our tool for research purposes, then we ask that you cite the following paper:
 
 ```latex
 @inproceedings{cds2014,
- author = {Sebastian Schuster and Stephanie Pancoast and Milind Ganjoo and Michael C. Frank and Dan Jurafsky},
+ author = {Schuster, Sebastian and Pancoast, Stephanie and Ganjoo, Milind and Frank, Michael C and Jurafsky, Dan},
  title = {Speaker-Independent Detection of Child-Directed Speech},
  booktitle = {Proceedings of the IEEE Workshop on Spoken Language Technology},
  year = {2014}
